@@ -1,6 +1,6 @@
 Usage:
 
-To run the calculator navigate to the project and run:
+To run the calculator navigate to the project root dir and run:
 ruby main.rb
 
 Input items using this format:
