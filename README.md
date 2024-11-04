@@ -14,7 +14,7 @@ Once finished, enter "done" to get your receipt.
 
 Tests:
 
-Basic tests can be ran using:
+Run basic tests:
 ruby test/receipt_test.rb
 ruby test/item_test.rb
 
