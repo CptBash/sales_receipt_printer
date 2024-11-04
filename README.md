@@ -10,7 +10,7 @@ Input items using this format:
 
 "1 bottle of perfume at 18.99"
 
-Once finished, enter done to get your receipt.
+Once finished, enter "done" to get your receipt.
 
 Tests:
 
